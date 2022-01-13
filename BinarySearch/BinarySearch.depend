@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617292828 source:d:\codeblocks programs\binarysearch\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

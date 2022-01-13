@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611656437 source:d:\codeblocks programs\sorting array\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+

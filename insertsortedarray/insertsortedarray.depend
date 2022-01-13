@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611662500 source:d:\codeblocks programs\insertsortedarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

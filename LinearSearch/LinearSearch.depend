@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611524497 source:d:\codeblocks programs\linearsearch\main.c
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

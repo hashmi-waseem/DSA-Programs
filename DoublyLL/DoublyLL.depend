@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612043409 source:d:\codeblocks programs\doublyll\main.c
+	<stdio.h>
+	<stdlib.h>
+

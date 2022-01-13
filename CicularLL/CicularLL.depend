@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612041086 source:d:\codeblocks programs\cicularll\main.c
+	<stdio.h>
+	<stdlib.h>
+
